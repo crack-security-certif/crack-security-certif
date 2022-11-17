@@ -4,7 +4,8 @@
 
 
 ## *Social*
-
+[![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.gg/rPqyfV7kTp)
+                  
 
 
 

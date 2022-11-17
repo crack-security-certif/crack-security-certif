@@ -12,5 +12,13 @@
 #### _skill_
 
 
-![Crack-Security-Certif GitHub stats](https://github-readme-stats.vercel.app/api?username=crack-security-certif&show_icons=true&theme=tokyonight)
+![Crack-Security-Certif GitHub stats](https://github-readme-stats.vercel.app/api?username=crack-security-certif&show_icons=true&theme=tokyonight) </br>
 [![My Skills](https://skillicons.dev/icons?i=cpp,c,dotnet,py)](https://skillicons.dev)
+
+
+
+
+
+
+
+

